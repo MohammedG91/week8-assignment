@@ -7,7 +7,7 @@ export default function () {
       <nav>
         <Link href={"/"}>Home</Link>
         <Link href={"/posts"}>Destinations</Link>
-        <Link href={"/newPosts"}>Add Destination</Link>
+        <Link href={"/newPost"}>Add Destination</Link>
       </nav>
     </header>
   );

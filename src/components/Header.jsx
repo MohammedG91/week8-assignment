@@ -6,8 +6,8 @@ export default function () {
       <h1>Travel reviews</h1>
       <nav>
         <Link href={"/"}>Home</Link>
-        <Link href={"/destination"}>Destinations</Link>
-        <Link href={"/addDestination"}>Add Destination</Link>
+        <Link href={"/posts"}>Destinations</Link>
+        <Link href={"/newPosts"}>Add Destination</Link>
       </nav>
     </header>
   );

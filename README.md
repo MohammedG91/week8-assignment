@@ -1,1 +1,1 @@
-Very enjoyable project. Was struggling to incorparate the comments form, the 2 tables were made and linked with the foreign key. Just wasn't sure how to go about the form, as well as the delete button. So any pointers on that would be great!
+Very enjoyable project. Got the comments form on the dynamic pages, as well as printing correctly. Not been styles fully, but has basic styling and media queries. Not sure how to delete a comment, so any pointers on that would be appreciated.
